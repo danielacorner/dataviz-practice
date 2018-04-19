@@ -1,0 +1,1100 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"axisY",
+				"axisYtranslate"
+			],
+			[
+				"inner",
+				"innerWidth〔variable〕"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"axisDe",
+				"axisDecorationY"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"get",
+				"getElementById〔function〕"
+			],
+			[
+				"paren",
+				"parentNode"
+			],
+			[
+				"sliderDiv_",
+				"sliderDiv_skillsLang"
+			],
+			[
+				"minitoo",
+				"miniTooltipDiv"
+			],
+			[
+				"size",
+				"sizeDropdownSpan"
+			],
+			[
+				"siz",
+				"sizesDropdown"
+			],
+			[
+				"td",
+				"td\tsnippetTransition"
+			],
+			[
+				"sizeDrop",
+				"sizeDropdownButton"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"indust",
+				"industriesArray〔variable〕"
+			],
+			[
+				"t",
+				"timeout\tsetTimeout function"
+			],
+			[
+				"industrie",
+				"industriesArray"
+			],
+			[
+				"tdec",
+				"text-decoration"
+			],
+			[
+				"text-decoration",
+				"text-decoration-style"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"colortoo",
+				"colorTooltip2"
+			],
+			[
+				"4",
+				"49AC52"
+			],
+			[
+				"jobEx",
+				"jobExampleCircle"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"left",
+				"leftOrRight"
+			],
+			[
+				"lef",
+				"leftOrRight"
+			],
+			[
+				"consol",
+				"console.log('favourited"
+			],
+			[
+				"createFutue",
+				"createFutureLegend"
+			],
+			[
+				"creat",
+				"createFutureLegend"
+			],
+			[
+				"graph",
+				"graphModesDiv"
+			],
+			[
+				"moveBottom",
+				"moveBottomUp"
+			],
+			[
+				"view",
+				"viewBox"
+			],
+			[
+				"subslide",
+				"subSliderTitlesArray〔argument〕"
+			],
+			[
+				"slidertitles",
+				"sliderTitlesArray〔argument〕"
+			],
+			[
+				"sliderTitles",
+				"sliderTitlesArray"
+			],
+			[
+				"create",
+				"createLegend"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"subsli",
+				"subSliderArray〔argument〕"
+			],
+			[
+				"data",
+				"data-options=〔attribute〕"
+			],
+			[
+				"auto",
+				"automationRadiusScale"
+			],
+			[
+				"autom",
+				"automationRisk"
+			],
+			[
+				"index",
+				"indexIn_sliderArray"
+			],
+			[
+				"subslider",
+				"subSliderDivLang〔variable〕"
+			],
+			[
+				"sliderTitl",
+				"sliderTitlesArray〔argument〕"
+			],
+			[
+				"sliderTitle",
+				"sliderTitlesArrayLang〔variable〕"
+			],
+			[
+				"expand",
+				"expandButtons"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"slidertitl",
+				"sliderTitlesArrayMain〔variable〕"
+			],
+			[
+				"inn",
+				"innerWidth〔variable〕"
+			],
+			[
+				"reset",
+				"resetFilters"
+			],
+			[
+				"indus",
+				"industriesArray〔variable〕"
+			],
+			[
+				"joy",
+				"joyrideTour"
+			],
+			[
+				"butt",
+				"buttons"
+			],
+			[
+				"slider",
+				"sliderArray1"
+			],
+			[
+				"search",
+				"searchbutton_PC"
+			],
+			[
+				"futureLeg",
+				"futureLegendTitle"
+			],
+			[
+				"skills",
+				"skillsLogi"
+			],
+			[
+				"skil",
+				"skillsLang"
+			],
+			[
+				"skill",
+				"skillsComp"
+			],
+			[
+				"max",
+				"maxWage"
+			],
+			[
+				"res",
+				"restart"
+			],
+			[
+				"alpha",
+				"alphaTarget"
+			],
+			[
+				"slidertitle",
+				"sliderTitlesArray〔variable〕"
+			],
+			[
+				"axisL",
+				"axisLabelY〔variable〕"
+			],
+			[
+				"legend",
+				"legend.transition().duration(500).style(\"opacity"
+			],
+			[
+				"year",
+				"yearsStudy"
+			],
+			[
+				"crea",
+				"createLegend"
+			],
+			[
+				"colorT",
+				"colorTooltipObject"
+			],
+			[
+				"futur",
+				"futurePositions"
+			],
+			[
+				"future",
+				"futurePositions"
+			],
+			[
+				"enter",
+				"enterUpdateCircles"
+			],
+			[
+				"futu",
+				"futureMode"
+			],
+			[
+				"gr",
+				"graphMode"
+			],
+			[
+				"futureMo",
+				"futureModeOff"
+			],
+			[
+				"a",
+				"automationRisk"
+			],
+			[
+				"stroke",
+				"stroke-width"
+			],
+			[
+				"past",
+				"pastPosY"
+			],
+			[
+				"pas",
+				"pastPosX"
+			],
+			[
+				"aut",
+				"automationRisk"
+			],
+			[
+				"force",
+				"forceCollide"
+			],
+			[
+				"origin",
+				"originalRadius"
+			],
+			[
+				"dragg",
+				"draggedSliderID"
+			],
+			[
+				"temp",
+				"tempScale"
+			],
+			[
+				"sli",
+				"sliderScaleArray"
+			],
+			[
+				"list",
+				"listToDeleteMulti"
+			],
+			[
+				"slidersArr",
+				"sliderSVGArray"
+			],
+			[
+				"sliderSc",
+				"sliderScaleArray"
+			],
+			[
+				"slid",
+				"sliderSVG"
+			],
+			[
+				"sk",
+				"skillsMath"
+			],
+			[
+				"drop",
+				"dropdown1Title"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"worker",
+				"workersMax"
+			],
+			[
+				"workers",
+				"workersMax"
+			],
+			[
+				"indu",
+				"industries"
+			],
+			[
+				"head",
+				"headersSplit"
+			],
+			[
+				"header",
+				"headersSplit"
+			],
+			[
+				"headers",
+				"headersString"
+			],
+			[
+				"pop",
+				"popTrans"
+			],
+			[
+				"dra",
+				"drag_handler"
+			],
+			[
+				"wor",
+				"workers"
+			],
+			[
+				"lis",
+				"listToDelete"
+			],
+			[
+				"worke",
+				"workersMin"
+			],
+			[
+				"cir",
+				"circles"
+			],
+			[
+				"fil",
+				"filtered"
+			],
+			[
+				"ind",
+				"includes"
+			],
+			[
+				"filt",
+				"filterList"
+			],
+			[
+				"work",
+				"workersAmt"
+			],
+			[
+				"new",
+				"newCircles"
+			],
+			[
+				"node",
+				"nodesStore"
+			],
+			[
+				"ex",
+				"exitTransition"
+			],
+			[
+				"nodes",
+				"nodesStore"
+			],
+			[
+				"ent",
+				"enteringCircles"
+			],
+			[
+				"upda",
+				"updateTransition"
+			],
+			[
+				"New",
+				"newCircles"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"filter",
+				"filterNodes"
+			],
+			[
+				"filte",
+				"filteredNodes"
+			],
+			[
+				"po",
+				"positionsX"
+			],
+			[
+				"old",
+				"oldPositions"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"sca",
+				"radiusScale"
+			],
+			[
+				"radiu",
+				"radiusScale"
+			],
+			[
+				"clu",
+				"cluster"
+			],
+			[
+				"thr",
+				"thresh"
+			],
+			[
+				"minma",
+				"minMaxWorkers"
+			],
+			[
+				"minm",
+				"minMaxWage"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 274.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: tran",
+				"Snippet: snippetTransition"
+			],
+			[
+				"snipper",
+				"Snippet: Prototype"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"new view",
+				"File: New View into File"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"color pi",
+				"Color Picker"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"materi",
+				"Material Theme: Configuration"
+			],
+			[
+				"color sch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"material",
+				"Material Theme: Configuration"
+			],
+			[
+				"materia",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"material theme",
+				"Material Theme: Configuration"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax",
+				"Set Syntax: Textile"
+			],
+			[
+				"syntax ht",
+				"Set Syntax: Python3"
+			],
+			[
+				"syntax js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Anaconda: Vagrant Status"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html ",
+				"HTMLBeautify"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"anaconda",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python3"
+			],
+			[
+				"hermes",
+				"Hermes: Connect Server"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax ",
+				"Set Syntax: YAML"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 704.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"install dash",
+			"pip_install dash",
+			"pip install plotly.dash",
+			"pip install",
+			"pip install plotly",
+			"pip install",
+			"import plotly",
+			"easy_install dash",
+			"import dash",
+			"?",
+			"help.dash",
+			"help",
+			"exit()",
+			"install plotly",
+			"install dash",
+			"pip install dash"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Daniel2/Documents/dataviz1"
+	],
+	"file_history":
+	[
+		"/C/Users/Daniel2/Documents/Pave-D3/Tutorial2.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/Tutorial1.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/PaveVisualisation.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/.git/packed-refs",
+		"/C/Users/Daniel2/Documents/Pave-D3/index.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/Tutorial3.html",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/snippet8_selectParentNode.sublime-snippet",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/snippet7_styleWidthHeight.sublime-snippet",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/snippet6_consolelog.sublime-snippet",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/snippet5_function_d_i.sublime-snippet",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/snippet1functiond.sublime-snippet",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/snippetTransition.sublime-snippet",
+		"/C/Users/Daniel2/Documents/a-h-l/css/main.css",
+		"/C/Users/Daniel2/Documents/a-h-l/work.html",
+		"/C/Users/Daniel2/Documents/a-h-l/todos.txt",
+		"/C/Users/Daniel2/Documents/a-h-l/index.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/css/main.css",
+		"/C/Users/Daniel2/Documents/Pave-D3/Pave.html",
+		"/C/Users/Daniel2/Documents/a-h-l/navbar.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/PaveVisualisation-3-24-2018.js",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/Daniel2/Documents/Pave-D3/examples/Bootstrap.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/archive/index-3-6-2018.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/archive/index_jobTitles.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/archive/PaveBubbles.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/archive/index_redo.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/archive/cols_index.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/joyridetour.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/cols_index.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/todos2.txt",
+		"/C/Users/Daniel2/Documents/Pave-D3/Pave.sublime-workspace",
+		"/C/Users/Daniel2/Documents/Pave-D3/node_modules/jquery.joyride/jquery.joyride.css",
+		"/C/Users/Daniel2/AppData/Local/LiveReload/Logs/LiveReload_2018_03_15_092939.txt",
+		"/C/Users/Daniel2/Documents/Pave-D3/foundation-joyride/README.md",
+		"/C/Users/Daniel2/Documents/Pave-D3/node_modules/jquery.joyride/README.markdown",
+		"/C/Users/Daniel2/Documents/Pave-D3/js/app.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/foundation-joyride/node_modules/jquery/dist/jquery.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/foundation-joyride/node_modules/jquery/dist/jquery.min.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/foundation-joyride/dist/solo.joyride.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/foundation-joyride/js/joyride.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/foundation-joyride/dist/foundation.joyride.js",
+		"/C/Users/Daniel2/Downloads/foundation-6.4.2-complete/js/app.js",
+		"/C/Users/Daniel2/AppData/Local/Temp/Rar$EXa0.265/index.html",
+		"/C/Users/Daniel2/AppData/Local/Temp/Rar$DIa0.031/README.md",
+		"/C/Users/Daniel2/AppData/Local/Temp/Rar$DIa0.199/README.md",
+		"/C/Users/Daniel2/Documents/Pave-D3/index_jobTitles.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/PaveVisualisation_jobTitles.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/index2-redo.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/PaveVisualisation2-redo.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/css/bootstrap.css",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Daniel2/Documents/Pave-D3/Pave.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/index.js",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Daniel2/Documents/Pave-D3/home.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/testing/svg-sliders.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/dcorn068.github.io/svg-sliders.js",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Daniel2/Documents/Pave-D3/dcorn068.github.io/index.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/dcorn068.github.io/PaveVisualisation.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/Procfile",
+		"/C/Users/Daniel2/Documents/Pave-D3/index.php",
+		"/C/Users/Daniel2/Documents/Pave-D3/composer.json",
+		"/C/Users/Daniel2/Documents/Pave-D3/PaveBubbles.js",
+		"/C/Users/Daniel2/Documents/Pave-D3-progress-pics/filterSlider1Workers.js",
+		"/C/Users/Daniel2/Documents/Pave-D3-progress-pics/PaveBubbles backup 27-02-2018.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/examples/enter exit update.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/serverLaptop.bat",
+		"/C/Users/Daniel2/Documents/Pave-D3/examples/slider.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/examples/Filtering Nodes.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/js/slider.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/svg-sliders.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/js/graph-module.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/js/graph-mode.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/slider.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/testing/bubbles.js",
+		"/C/Users/Daniel2/Documents/Pave-D3/forceCluster.js",
+		"/C/Users/Daniel2/Dropbox/SPC Data - Backup/Python/todo - Civic Tech.txt",
+		"/C/Users/Daniel2/Documents/Pave-D3/ClusterIV.js",
+		"/C/Users/Daniel2/Dropbox/Pave_D3_Project/index_1.html",
+		"/C/Users/Daniel2/Dropbox/Pave_D3_Project/d3-book-master/chapter_09/21_on.html",
+		"/C/Users/Daniel2/Dropbox/Pave_D3_Project/d3-book-master/chapter_09/26_removing_values.html",
+		"/C/Users/Daniel2/Dropbox/computer lessons/right-click properties, file location.txt",
+		"/C/Users/Daniel2/Dropbox/computer lessons/typing - look wide, notice the arrangement of the keys.txt",
+		"/C/Users/Daniel2/Dropbox/computer lessons/Intro to Computers Speed Lessons/Chrome shortcuts & extensions/Chrome Extensions.txt",
+		"/C/Users/Daniel2/Dropbox/computer lessons/Intro to Computers Intermediate/Chrome shortcuts & extensions/Research shortcuts.txt",
+		"/C/Users/Daniel2/Dropbox/computer lessons/Intro to Computers Intermediate/Chrome shortcuts & extensions/Youtube shortcuts.txt",
+		"/C/Users/Daniel2/Dropbox/computer lessons/Intro to Computers Intermediate/Chrome shortcuts & extensions/Chrome shortcuts.txt",
+		"/C/Users/Public/Desktop/R@1n.txt",
+		"/C/Users/Daniel2/Dropbox/Pave_D3_Project/index2.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/ClusterIV.html",
+		"/C/Users/Daniel2/Dropbox/Pave_D3_Project/d3figures1.html",
+		"/C/Users/Daniel2/Documents/Pave-D3/server.bat",
+		"/C/Users/Daniel2/Dropbox/Pave_D3_Project/index_force-collapsible.html",
+		"/C/Users/Daniel2/Dropbox/SPC Data - Backup/python scraping/pythonexcelloop.txt",
+		"/C/Users/Daniel2/Dropbox/SPC Data - Backup/python scraping/pythonexcelloop.py",
+		"/C/Users/Daniel2/Dropbox/Pave_D3_Project/index_old.html",
+		"/C/Users/Daniel2/Dropbox/Pave_D3_Project/d3-book-master/chapter_05/03_csv_loading_example.html",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/Javascript Beautify/Default (Windows).sublime-keymap",
+		"/C/Users/Daniel2/Dropbox/Pave_D3_Project/d3-book-master/chapter_09/27_data_join_with_key.html",
+		"/C/Users/Daniel2/Dropbox/Pave_D3_Project/d3-book-master/chapter_09/22_on_combo_transition.html",
+		"/C/Users/Daniel2/Dropbox/Pave_D3_Project/d3-book-master/chapter_09/25_adding_values.html",
+		"/C/Users/Daniel2/Dropbox/Pave_D3_Project/d3-book-master/chapter_09/19_axes_static.html",
+		"/C/Users/Daniel2/Dropbox/Pave_D3_Project/server.bat",
+		"/C/Users/Daniel2/Dropbox/Pave_D3_Project/d3-book-master/d3-book-master/chapter_07/04_scaled_plot_padding.html",
+		"/C/Users/Daniel2/Dropbox/Pave_D3_Project/d3-book-master/d3-book-master/chapter_07/02_scaled_plot.html",
+		"/C/Users/Daniel2/Downloads/Endless.Space.2.Digital.Deluxe.Edition.v1.0.37.S5-ALI213/Endless Space 2/Public/Localization/spanish/ES2_Localization_Locales.xml",
+		"/C/Users/Daniel2/Downloads/Endless.Space.2.Digital.Deluxe.Edition.v1.0.37.S5-ALI213/Endless Space 2/ALI213.ini",
+		"/C/Users/Daniel2/Downloads/d3-book-master/d3-book-master/chapter_05/04_creating_paragraphs.html",
+		"/C/Users/Daniel2/Dropbox/SPC Data - Backup/Python/todo.txt",
+		"/C/Users/Daniel2/Dropbox/SPC Data - Backup/Python/drug discovery plotly",
+		"/C/Users/Daniel2/Dropbox/SPC Data - Backup/Python/014-JobDutiesBulletList.py",
+		"/C/Users/Daniel2/Dropbox/SPC Data - Backup/Python/012-JupyterFriendly.py",
+		"/C/Users/Daniel2/Dropbox/SPC Data - Backup/Python/plotly dash pave pseudocode.txt",
+		"/C/Users/Daniel2/Dropbox/SPC Data - Backup/Python/test.py",
+		"/C/Users/Daniel2/Dropbox/SPC Data - Backup/Python/002-4sliders.py",
+		"/C/Users/Daniel2/Dropbox/SPC Data - Backup/Python/getting started part 2/slider graph.py",
+		"/C/Users/Daniel2/Dropbox/SPC Data - Backup/Python/getting started part 2/state.py",
+		"/C/Users/Daniel2/Dropbox/SPC Data - Backup/Python/005-zoomSlider.py",
+		"/C/Users/Daniel2/Dropbox/SPC Data - Backup/Python/Plotly.sublime-project",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/python3-1.sublime-build",
+		"/C/Users/Daniel2/Dropbox/SPC Data - Backup/Python/getting started part 2/multiple inputs.py",
+		"/C/Users/Daniel2/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Daniel2/Dropbox/SPC Data - Backup/Python/001-Pseudocode.py",
+		"/C/Users/Daniel2/Dropbox/SPC Data - Backup/Python/slider-graph.py",
+		"/C/Users/Daniel2/Dropbox/SPC Data - Backup/Python/getting started part 2/chain outputs and inputs.py",
+		"/C/Users/Daniel2/Dropbox/SPC Data - Backup/Python/getting started part 2/interactive visualizations.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 207.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3-1.sublime-build",
+	"project": "dataviz1.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"Pave-D3\\index.html"
+			],
+			[
+				"tutorial3",
+				"Pave-D3\\Tutorial3.html"
+			],
+			[
+				"tutorial2",
+				"Pave-D3\\Tutorial2.html"
+			],
+			[
+				"utorial1",
+				"Pave-D3\\Tutorial1.html"
+			],
+			[
+				"tuto",
+				"Pave-D3\\Tutorial3.html"
+			],
+			[
+				"tutorial",
+				"Pave-D3\\Tutorial1.html"
+			],
+			[
+				"tut",
+				"Pave-D3\\Tutorial1.html"
+			],
+			[
+				"tutorial1",
+				"Pave-D3\\Tutorial1.html"
+			],
+			[
+				"pavev",
+				"Pave-D3\\PaveVisualisation.js"
+			],
+			[
+				"main.c",
+				"Pave-D3\\css\\main.css"
+			],
+			[
+				"todo",
+				"Pave-D3\\todos2.txt"
+			],
+			[
+				"index",
+				"a-h-l\\index.html"
+			],
+			[
+				"main",
+				"Pave-D3\\css\\main.css"
+			],
+			[
+				"pave",
+				"Pave-D3\\Pave.html"
+			],
+			[
+				"tutor",
+				"Tutorial1.html"
+			],
+			[
+				"tutori",
+				"Tutorial3.html"
+			],
+			[
+				"pav",
+				"Pave.html"
+			],
+			[
+				"m",
+				"css\\main.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 138.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
